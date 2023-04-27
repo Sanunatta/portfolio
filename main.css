@@ -21,7 +21,7 @@
 }
 .container{
     background-size:cover ;
-    background: url(./img/a.png)no-repeat;
+    background: url(./a.png)no-repeat;
     width: 100%;
     height: 90vh;
     text-align:right;
