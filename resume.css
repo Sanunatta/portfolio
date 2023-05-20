@@ -13,6 +13,7 @@
 .nav-link:hover{
     color: red;
     background-color: white;
+    font-size: 20px;
 }
 .main{
     display: flex;
