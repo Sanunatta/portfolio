@@ -34,14 +34,16 @@
     
 }
 .main h3{
-
     font-size: 4.2rem;
     font-weight: 700;
 }
 .main h5{
-    font-size: 2rem;;
-    border-bottom: 2px solid red;
-    width: 85%;
+    font-size: 2.4rem;;
+    border-bottom: 3px solid red; 
+    width: 98%;
+}
+#element{
+    color: rgb(89, 19, 155);
 }
 .bt1-mt-5{
     height: 55px;
